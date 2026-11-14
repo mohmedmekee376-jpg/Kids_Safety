@@ -1,1 +1,16 @@
-
+body{
+  margin: 0;
+  padding: 0;
+}
+.address{
+  background-color: #7e3af2;
+  margin: 0;
+  padding: 0;
+  height: 30px;
+  padding-top: 4px;
+}
+.home{
+  font-size: 20px;
+  text-align: center;
+  color: #7e3af2; ;
+}
