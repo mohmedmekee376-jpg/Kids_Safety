@@ -2,15 +2,30 @@ body{
   margin: 0;
   padding: 0;
 }
-.address{
+/*عنوان الاختصارات*/
+.address_kids_safey{
   background-color: #7e3af2;
-  margin: 0;
-  padding: 0;
+  padding-bottom: 5px;
+  position: relative;
+  bottom: 20px;
   height: 30px;
-  padding-top: 4px;
+  padding-top: 13px;
 }
-.home{
+.link_home{
+  text-decoration: none;
+  color: lab(0% 0 0);
+  position: absolute;
+  left: 170px;
+  top: 12px;
+  
+}
+/*القسم الرئيسي*/
+.address_keep{
   font-size: 20px;
   text-align: center;
   color: #7e3af2; ;
+}
+.paragraph_simple{
+  font-size: 5px;
+  text-align: center;
 }
