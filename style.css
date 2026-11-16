@@ -57,3 +57,26 @@ body{
   left: 10px;
   background-color: hwb(90 93% 4%)
 }
+.address_stranger{
+  font-size: 20px;
+  text-align: center;
+}
+.paragraph_know{
+  font-size: 10px;
+}
+.link_stranger_safey{
+  text-decoration: none;
+  border: 2px solid #7e3af2;
+  border-radius: 10px;
+  background-color: #7e3af2;
+  position: relative;
+  left: 37px;
+}
+.home_stranger_safey{
+  border: 2px solid hwb(90 93% 4%);
+  border-radius: 15px;
+  position: absolute;
+  top: 270px;
+  left: 190px;
+  background-color: hwb(90 93% 4%)
+}
