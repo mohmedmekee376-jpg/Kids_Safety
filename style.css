@@ -18,14 +18,21 @@ body{
   text-decoration: none;
   color: white;
   position: absolute;
-  left: 120px;
+  left: 110px;
   top: 12px;
 }
 .link_safey_tips{
   text-decoration: none;
   color: white;
   position: absolute;
-  left: 180px;
+  left: 170px;
+  top: 12px;
+}
+.link_study_tips{
+  text-decoration: none;
+  color: white;
+  position: absolute;
+  left: 270px;
   top: 12px;
 }
 /*القسم الرئيسي*/
@@ -134,5 +141,46 @@ body{
   left: 15px;
   background-color: hwb(90 93% 4%);
 }
-
-
+/*قسم نصائح المذاكره*/
+.address_study_tips{
+  font-size: 23px;
+  position: absolute;
+  top: 777px;
+  left: 126px;
+  color: #7e3af2;
+}
+.img_study_tips{
+  position: absolute;
+  top: 890px;
+  left: 200px;
+}
+.paragraph_set{
+  font-size: 15px;
+  font-weight: bold;
+}
+.paragraph_creat{
+  font-size: 10px;
+}
+.paragraph_study_tips_1{
+  border: 2px solid hwb(90 93% 4%);
+  border-radius: 10px;
+  position: absolute;
+  top: 840px;
+  left: 15px;
+  background-color: hwb(90 93% 4%);
+}
+.paragraph_take{
+  font-size: 15px;
+  font-weight: bold
+}
+.paragraph_pause_for{
+  font-size: 10px;
+}
+.paragraph_study_tips_2{
+  border: 2px solid hwb(90 93% 4%);
+  border-radius: 10px;
+  position: absolute;
+  top: 983px;
+  left: 15px;
+  background-color: hwb(90 93% 4%);
+}
