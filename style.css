@@ -48,6 +48,7 @@ body{
   background-color: #7e3af2;
   position: relative;
   left: 37px;
+  color: white;
 }
 .home_online_safey{
   border: 2px solid hwb(90 93% 4%);
@@ -71,6 +72,7 @@ body{
   background-color: #7e3af2;
   position: relative;
   left: 37px;
+  color: white;
 }
 .home_stranger_safey{
   border: 2px solid hwb(90 93% 4%);
