@@ -15,9 +15,15 @@ body{
   text-decoration: none;
   color: lab(0% 0 0);
   position: absolute;
-  left: 170px;
+  left: 120px;
   top: 12px;
-  
+}
+.link_safey_tips{
+  text-decoration: none;
+  color: lab(0% 0 0);
+  position: absolute;
+  left: 180px;
+  top: 12px;
 }
 /*القسم الرئيسي*/
 .address_keep{
@@ -80,5 +86,31 @@ body{
   position: absolute;
   top: 270px;
   left: 190px;
+  background-color: hwb(90 93% 4%)
+}
+/*قسم نصائح السلامه*/
+.address_safey_tips{
+  font-size: 23px;
+  position: absolute;
+  top: 440px;
+  left: 126px;
+  color: #7e3af2;
+}
+.img_safey_tips{
+  position: absolute;
+  top: 500px;
+  left: 200px;
+}
+.paragraph_always{
+  font-size: 15px;
+}
+.paragraph_pause{
+  font-size: 10px;
+}
+.paragraph_safey_tips_1{
+  border: 2px solid hwb(90 93% 4%);
+  position: absolute;
+  top: 500px;
+  left: 15px;
   background-color: hwb(90 93% 4%)
 }
