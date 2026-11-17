@@ -1,26 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&display=swap");
 body{
   margin: 0;
   padding: 0;
+  font-family: "Fredoka", Arail, sans-serif;
 }
 /*عنوان الاختصارات*/
 .address_kids_safey{
   background-color: #7e3af2;
+  color: white;
   padding-bottom: 5px;
   position: relative;
   bottom: 20px;
   height: 30px;
-  padding-top: 13px;
+  padding-top: 15px;
 }
 .link_home{
   text-decoration: none;
-  color: lab(0% 0 0);
+  color: white;
   position: absolute;
   left: 120px;
   top: 12px;
 }
 .link_safey_tips{
   text-decoration: none;
-  color: lab(0% 0 0);
+  color: white;
   position: absolute;
   left: 180px;
   top: 12px;
@@ -98,19 +101,37 @@ body{
 }
 .img_safey_tips{
   position: absolute;
-  top: 500px;
+  top: 537px;
   left: 200px;
 }
 .paragraph_always{
   font-size: 15px;
+  font-weight: bold;
 }
 .paragraph_pause{
   font-size: 10px;
 }
 .paragraph_safey_tips_1{
   border: 2px solid hwb(90 93% 4%);
+  border-radius: 10px;
   position: absolute;
   top: 500px;
   left: 15px;
-  background-color: hwb(90 93% 4%)
+  background-color: hwb(90 93% 4%);
 }
+.paragraph_wear{
+  font-size: 15px;
+  font-weight: bold;
+}
+.paragraph_a_helmet{
+  font-size: 10.5px;
+}
+.paragraph_safey_tips_2{
+  border: 2px solid hwb(90 93% 4%);
+  border-radius: 10px;
+  position: absolute;
+  top: 630px;
+  left: 15px;
+  background-color: hwb(90 93% 4%);
+}
+
